@@ -1,4 +1,4 @@
-##**Ethan Pitroff's Portfolio Page**
+## **Ethan Pitroff's Portfolio Page**
 
 ## **Introduction**
 My name is Ethan Pitroff, an undergraduate student at UW Tacoma enrolled in the Computer Science major. My primary interest is in software development and engineering.
