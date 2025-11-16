@@ -29,3 +29,19 @@ This project was given to have us properly look over and fix code that someone e
 Shapes project, creating a bunch of classes that inherit from one abstract class.\
 Created using the IntelliJ IDE and Java language.\
 This project was to learn inheritance, as well as use Checkstyle, PMD, and SpotBugs.
+
+
+## **Skills**
+-Coding Languages
+  -Java
+  -Python
+-Communication
+-Time Management
+
+
+## **Experience**
+None, so far.
+
+## **Contact**
+**Email:**pitroeth@gmail.com
+https://www.linkedin.com/in/ethan-pitroff-428120395
