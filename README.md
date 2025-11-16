@@ -35,7 +35,7 @@ This project was to learn inheritance, as well as use Checkstyle, PMD, and SpotB
 1. Coding Languages\
   -Java\
   -Python
-2. Communication\
+2. Communication
 3. Time Management
 
 
