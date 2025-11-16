@@ -9,4 +9,4 @@ My love of computers and programming stems from my dad, who got me interested in
 
 
 ## **Projects**
-![Image of the RoadRage GUI](github.com/pitroeth/pitroeth.github.io/main/roadrage.png)_
+![Image of the RoadRage GUI](https://github.com/pitroeth/pitroeth.github.io/blob/main/roadrage.png)
