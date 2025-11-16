@@ -32,11 +32,11 @@ This project was to learn inheritance, as well as use Checkstyle, PMD, and SpotB
 
 
 ## **Skills**
--Coding Languages
-  -Java
-  -Python
--Communication
--Time Management
+-Coding Languages\
+  -Java\
+  -Python\
+-Communication\
+-Time Management\
 
 
 ## **Experience**
