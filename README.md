@@ -8,9 +8,11 @@ Born and raised Washingtonian, specifically the Olympia/Lacey area. My current l
 My love of computers and programming stems from my dad, who got me interested in the field in general at a very young age because of his love of it. While he has always been interested in the IT and networking side of technology, I grew attached to the coding aspect. Outside of my coursework at UW Tacoma, I plan on joining Huscii Developers, a extracurricular club at UW Tacoma focusing on coding, as well as participating in any extracuricular programs I can to broaden my portfolio!
 
 
-## **Projects**
+## **Projects:**
 
-![Image of the RoadRage GUI](https://github.com/pitroeth/pitroeth.github.io/blob/main/roadrage.png)\
+![Image of the RoadRage GUI](roadrage.png)\
 Road Rage project, working with a provided GUI and creating the backend inheritance for it.\
 Creating using the IntelliJ IDE and Java.\
 The main point of this project was to check our understanding and usage of inheritance and JUnit tests.\
+
+
