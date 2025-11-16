@@ -9,4 +9,8 @@ My love of computers and programming stems from my dad, who got me interested in
 
 
 ## **Projects**
+
 ![Image of the RoadRage GUI](https://github.com/pitroeth/pitroeth.github.io/blob/main/roadrage.png)
+Road Rage project, working with a provided GUI and creating the backend inheritance for it.
+Creating using the IntelliJ IDE and Java.
+The main point of this project was to check our understanding and usage of inheritance and JUnit tests.
