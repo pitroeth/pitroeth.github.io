@@ -43,5 +43,5 @@ This project was to learn inheritance, as well as use Checkstyle, PMD, and SpotB
 None, so far.
 
 ## **Contact**
-**Email:**pitroeth@gmail.com
+**Email:**  pitroeth@gmail.com\
 https://www.linkedin.com/in/ethan-pitroff-428120395
