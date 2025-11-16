@@ -10,13 +10,14 @@ My love of computers and programming stems from my dad, who got me interested in
 
 ## **Projects:**
 
+##### **Road Rage**
 ![Image of the RoadRage GUI](roadrage.png)\
 Road Rage project, working with a provided GUI and creating the backend inheritance for it.\
 Created using the IntelliJ IDE and Java.\
 The main point of this project was to check our understanding and usage of inheritance and JUnit tests.\
 
 
-
+##### **Bookstore**
 ![Image of the Bookstore GUI](bookstore.png)\
 Bookstore project, finishing the code of a project that was given to us.\
 Created using the IntelliJ IDE and Java.\
