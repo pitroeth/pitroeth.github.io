@@ -1,6 +1,8 @@
 
 ## **Introduction**
 pitroeth@gmail.com\
+[My LinkedIn](https://www.linkedin.com/in/ethan-pitroff-428120395)
+[My GitHub](https://github.com/pitroeth)\
 My name is Ethan Pitroff, an undergraduate student at UW Tacoma enrolled in the Computer Science major. My primary interest is in software development and engineering.
 BA in Computer Science, looking for Software Engineer jobs/internships!
 
@@ -61,4 +63,4 @@ Undergraduate student at the University of Washington Tacoma branch; BA in Compu
 ## **Contact**
 **Email:**  pitroeth@gmail.com\
 [My LinkedIn](https://www.linkedin.com/in/ethan-pitroff-428120395)
-[My GitHub Profile](https://github.com/pitroeth)
+[My GitHub](https://github.com/pitroeth)
