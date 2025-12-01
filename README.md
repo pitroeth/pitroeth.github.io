@@ -44,7 +44,7 @@ Checkstyle and PMD are both useful for finding issues with how I've written my c
 1. Coding Languages\
   -Java\
   -Python
-2. Communication
+2. Communication\
   -Public Speaking and Presenting\
   -Group Work
 4. Time Management
