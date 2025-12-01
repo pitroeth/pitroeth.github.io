@@ -1,6 +1,6 @@
 
 ## **Introduction**
-![Image of me](pfpofMe (1).png)\
+![Image of me](pfpofMe.png)\
 pitroeth@gmail.com\
 My name is Ethan Pitroff, an undergraduate student at UW Tacoma enrolled in the Computer Science major. My primary interest is in software development and engineering.
 BA in Computer Science, looking for Software Engineer jobs/internships!
